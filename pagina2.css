@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pagina2 h1 {
+    color: aqua;
+    font-size: 50px;
+    
+}
+
+.pagina2 p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    text-align: center;
+}
